@@ -20,11 +20,11 @@ module.exports = {
         }]
     },
     plugins: [
-        new htmlWebpackPlugin([{
+        new htmlWebpackPlugin({
             inject: true,
             template: './public/index.html',
             filename: './index.html'
-        }])
+        })
     ]
 
 }
