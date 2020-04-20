@@ -1,0 +1,22 @@
+{
+    "name": "100tifi.co",
+    "version": "1.0.0",
+    "description": "Single page application",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "javascript"
+    ],
+    "author": "Diego Rojas <diegoandresrojas2000@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/core": "^7.9.0",
+        "babel-loader": "^8.1.0",
+        "html-webpack-plugin": "^4.2.0",
+        "webpack": "^4.42.1",
+        "webpack-cli": "^3.3.11",
+        "webpack-dev-server": "^3.10.3"
+    }
+}
