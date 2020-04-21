@@ -1,2 +1,2 @@
 # 100tifi.co
-Single Page Application 
+Single Page Application 🚫⚠📺
